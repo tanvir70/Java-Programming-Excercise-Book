@@ -3,6 +3,7 @@
 ### This repository contains the solutions to the programming exercises from the book "Java Programming Excercise" by A N M Bazlur Rahman.
 
 ## Table of Contents
+<sub>
 #### Chapter 1: Introduction to Java
 #### Chapter 2: Data Types and Operators
 #### Chapter 3: Control Flow Statements
@@ -16,7 +17,7 @@
 #### Chapter 12: Java Collection Framework
 #### Chapter 13: Java Date & Time
 #### Chapter 14: String, Math API
-
+</sub>
 
 
 ## Chapter 1: Introduction to Java

@@ -1,21 +1,22 @@
 # Java-Programming-Excercise-Book
 
-## This repository contains the solutions to the programming exercises from the book "Java Programming Excercise" by A N M Bazlur Rahman.
+### This repository contains the solutions to the programming exercises from the book "Java Programming Excercise" by A N M Bazlur Rahman.
 
 ## Table of Contents
-### Chapter 1: Introduction to Java
-### Chapter 2: Data Types and Operators
-### Chapter 3: Control Flow Statements
-### Chapter 4: Methods
-### Chapter 5: Arrays
-### Chapter 6: Objects and Classes
-### Chapter 7: Object Oriented Programing
-### Chapter 8: Exceptions Handeling
-### Chapter 9: Generics
-### Chapter 10 & 11: Java I/O
-### Chapter 12: Java Collection Framework
-### Chapter 13: Java Date & Time
-### Chapter 14: String, Math API
+#### Chapter 1: Introduction to Java
+#### Chapter 2: Data Types and Operators
+#### Chapter 3: Control Flow Statements
+#### Chapter 4: Methods
+#### Chapter 5: Arrays
+#### Chapter 6: Objects and Classes
+#### Chapter 7: Object Oriented Programing
+#### Chapter 8: Exceptions Handeling
+#### Chapter 9: Generics
+#### Chapter 10 & 11: Java I/O
+#### Chapter 12: Java Collection Framework
+#### Chapter 13: Java Date & Time
+#### Chapter 14: String, Math API
+
 
 
 ## Chapter 1: Introduction to Java

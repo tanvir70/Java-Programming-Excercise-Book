@@ -1,6 +1,6 @@
 # Java-Programming-Excercise-Book
 
-### This repository contains the solutions to the programming exercises from the book "Java Programming Excercise" by A N M Bazlur Rahman.
+## This repository contains the solutions to the programming exercises from the book "Java Programming Excercise" by A N M Bazlur Rahman.
 
 ### Table of Contents
 

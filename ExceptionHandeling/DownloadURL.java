@@ -20,7 +20,8 @@ public class DownloadURL {
             ReadableByteChannel read = Channels.newChannel(url.openStream());
             FileOutputStream output = new FileOutputStream("info.html");
             output.getChannel().transferFrom(read,0,Long.MAX_VALUE);
-
+            read.close();
+            output.close();
         }catch (MalformedURLException e){
             System.out.println("Invalid URL : " + urlString);
             e.printStackTrace();
